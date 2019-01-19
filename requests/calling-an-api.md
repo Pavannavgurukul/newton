@@ -18,4 +18,4 @@ Ab aapko
 
 - `API` ko bhi aap aise function ki tarah soch sakte hai, jo server ne aapko diya hai, use karne ke liye. Aap usse `call` karoge, kuch `arguments` doge, aur woh aapko kuch `json` ya kisi aur `format` mei `data` `return` kar dega
 
-- `json` sabse commonly used data format hai, jismei server `data` `return` karta hai. Pehle `xml` kaafi popular format tha, data exchange ka
+- `json` sabse commonly used data format hai, jismei server `data` `return` karta hai. Pehle `xml` kaafi popular format tha, data exchange ka.
